@@ -9,7 +9,7 @@ To run a simple example:
 node blasphemy-test.js
 ```
 
-To run an HTTP insult server:
+To run an HTTP blaspheming server:
 ```
 node blasphemy-server.js
 ```
