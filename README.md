@@ -10,7 +10,7 @@ node blasphemy-test.js
 ```
 
 To run an HTTP insult server:
-``
+```
 node blasphemy-server.js
 ```
 
