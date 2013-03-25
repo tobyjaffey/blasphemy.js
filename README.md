@@ -3,7 +3,16 @@ blasphemy.js
 
 The Multi-Faith Blasphemy Generator node.js Module
 
-`node blasphemy-test.js`
+
+To run a simple example:
+```
+node blasphemy-test.js
+```
+
+To run an HTTP insult server:
+``
+node blasphemy-server.js
+```
 
 
 ```
