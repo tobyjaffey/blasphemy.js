@@ -1,0 +1,12 @@
+{
+  "name": "blasphemy",
+  "version": "0.0.1",
+  "description": "Multi-Faith Blasphemy Generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jobytaffey/blasphemy.js.git"
+  },
+  "author": "Toby Jaffey <toby-blasphemy@hodgepig.org>",
+  "dependencies": {
+  }
+}
