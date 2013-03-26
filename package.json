@@ -7,6 +7,16 @@
     "url": "https://github.com/jobytaffey/blasphemy.js.git"
   },
   "author": "Toby Jaffey <toby-blasphemy@hodgepig.org>",
-  "dependencies": {
-  }
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "gitHead": "f2a32dfed9b6ca82968a381df5a6f7838095b7c4",
+  "main": "blasphemy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blasphemy",
+    "insult"
+  ],
+  "license": "BSD"
 }
